@@ -1,14 +1,16 @@
 // Features
 .wrapper-grey {
-  background: #F4F4F4;
+  background: $grey-lighter;
 }
 .text-center {
   text-align: center;
 }
-.container h2 {
-  font-size: 20px;
-  margin-bottom: 10px
-}
-.container img {
-  width: 100px;
+.container {
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px
+  }
+  img {
+    width: 100px;
+  }
 }
