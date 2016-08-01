@@ -1,0 +1,16 @@
+/* Footer design */
+.footer {
+  background: $grey-darker;
+  color: white;
+  padding: 20px;
+  margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.list-inline li i {
+  font-size: 32px;
+  margin-left: 10px;
+}
+.footer i:hover {
+  color: $yellow;
+}
